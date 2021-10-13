@@ -1,1 +1,2 @@
-Hello from GitLecture
+Hello from GitHub
+By Henrik
