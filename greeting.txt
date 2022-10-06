@@ -1,3 +1,1 @@
-HELLO FROM GITLECTURE
-
 Hello from GitLecture
